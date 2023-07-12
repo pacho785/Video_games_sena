@@ -14,7 +14,7 @@ else if keyboard_check(ord("W"))|| keyboard_check(vk_up){///arriba
 	y = y-spd;
 	sprite_index = RUN;
 }
-else if keyboard_check(ord("S"))|| keyboard_check(vk_dowm){///abajo
+else if keyboard_check(ord("S"))|| keyboard_check(vk_down){///abajo
 	y = y+spd;
 	sprite_index = RUN;
 }
