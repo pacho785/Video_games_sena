@@ -21,4 +21,7 @@ else if keyboard_check(ord("S"))|| keyboard_check(vk_down){///abajo
 else{
 	sprite_index = spr_ba_bam_idle;///posicion inicial
 } 
-depth = -y;  
+depth = -y; 
+
+show_debug_message("Vida actual: ");
+show_debug_message(hp);
