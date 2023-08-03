@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.6.0.89",
   },
   "resources": [
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -43,6 +43,7 @@
     {"id":{"name":"RoomGameOver","path":"rooms/RoomGameOver/RoomGameOver.yy",},},
     {"id":{"name":"bgm_sub_Danger","path":"sounds/bgm_sub_Danger/bgm_sub_Danger.yy",},},
     {"id":{"name":"Obj_game_over","path":"objects/Obj_game_over/Obj_game_over.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"RoomEnding","path":"rooms/RoomEnding/RoomEnding.yy",},},
     {"id":{"name":"wall_spr","path":"sprites/wall_spr/wall_spr.yy",},},
     {"id":{"name":"obj_go_to_room_2","path":"objects/obj_go_to_room_2/obj_go_to_room_2.yy",},},
