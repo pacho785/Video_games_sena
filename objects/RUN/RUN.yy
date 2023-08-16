@@ -31,8 +31,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_bat_man_idle",
-    "path": "sprites/spr_bat_man_idle/spr_bat_man_idle.yy",
+    "name": "spr_bat_man_walk",
+    "path": "sprites/spr_bat_man_walk/spr_bat_man_walk.yy",
   },
   "spriteMaskId": null,
   "visible": true,

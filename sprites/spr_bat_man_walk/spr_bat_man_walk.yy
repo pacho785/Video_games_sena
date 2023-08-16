@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_bat_man_idle",
+  "name": "spr_bat_man_walk",
   "bbox_bottom": 68,
   "bbox_left": 1,
   "bbox_right": 36,
@@ -38,7 +38,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_bat_man_idle",
+    "name": "spr_bat_man_walk",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -60,13 +60,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b1c524d3-6cb9-4188-a453-7ec6dd6db60f","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},},"Disabled":false,"id":"ab63d3d8-7790-4cd7-956c-b048092f3206","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c38c1a93-14c6-4ad5-9273-f375e3f2e2e9","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},},"Disabled":false,"id":"8fe91af7-3a6b-4c9b-a6c2-0851c6533b28","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9d36d10d-28bd-4dcb-91fd-1fd275d4c5dc","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},},"Disabled":false,"id":"5d2c7ac2-c05e-499f-ba87-324e14acd002","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"65419121-3cd7-46f2-abd3-b3029fff12e5","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},},"Disabled":false,"id":"6c193fa0-7f68-4c4f-abca-909f07290a66","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bb4eff5f-29d3-4fd0-b207-5a0444d348e9","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},},"Disabled":false,"id":"53edca33-c3e0-49f1-bac6-4716dcd53d55","IsCreationKey":false,"Key":4.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6310c32d-aad9-4138-a631-aa2cae2d4985","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},},"Disabled":false,"id":"5efd20b2-3089-43c5-bb20-be3354095873","IsCreationKey":false,"Key":5.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"82d3b7fc-8ac3-4b91-bc0e-e2d4bd08989d","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},},},"Disabled":false,"id":"3a26e8d7-2874-4ff4-89a7-873078275c4a","IsCreationKey":false,"Key":6.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b1c524d3-6cb9-4188-a453-7ec6dd6db60f","path":"sprites/spr_bat_man_walk/spr_bat_man_walk.yy",},},},"Disabled":false,"id":"ab63d3d8-7790-4cd7-956c-b048092f3206","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c38c1a93-14c6-4ad5-9273-f375e3f2e2e9","path":"sprites/spr_bat_man_walk/spr_bat_man_walk.yy",},},},"Disabled":false,"id":"8fe91af7-3a6b-4c9b-a6c2-0851c6533b28","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9d36d10d-28bd-4dcb-91fd-1fd275d4c5dc","path":"sprites/spr_bat_man_walk/spr_bat_man_walk.yy",},},},"Disabled":false,"id":"5d2c7ac2-c05e-499f-ba87-324e14acd002","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"65419121-3cd7-46f2-abd3-b3029fff12e5","path":"sprites/spr_bat_man_walk/spr_bat_man_walk.yy",},},},"Disabled":false,"id":"6c193fa0-7f68-4c4f-abca-909f07290a66","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bb4eff5f-29d3-4fd0-b207-5a0444d348e9","path":"sprites/spr_bat_man_walk/spr_bat_man_walk.yy",},},},"Disabled":false,"id":"53edca33-c3e0-49f1-bac6-4716dcd53d55","IsCreationKey":false,"Key":4.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6310c32d-aad9-4138-a631-aa2cae2d4985","path":"sprites/spr_bat_man_walk/spr_bat_man_walk.yy",},},},"Disabled":false,"id":"5efd20b2-3089-43c5-bb20-be3354095873","IsCreationKey":false,"Key":5.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"82d3b7fc-8ac3-4b91-bc0e-e2d4bd08989d","path":"sprites/spr_bat_man_walk/spr_bat_man_walk.yy",},},},"Disabled":false,"id":"3a26e8d7-2874-4ff4-89a7-873078275c4a","IsCreationKey":false,"Key":6.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
