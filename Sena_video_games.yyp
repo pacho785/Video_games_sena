@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -43,7 +43,6 @@
     {"id":{"name":"RoomGameOver","path":"rooms/RoomGameOver/RoomGameOver.yy",},},
     {"id":{"name":"bgm_sub_Danger","path":"sounds/bgm_sub_Danger/bgm_sub_Danger.yy",},},
     {"id":{"name":"Obj_game_over","path":"objects/Obj_game_over/Obj_game_over.yy",},},
-    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"RoomEnding","path":"rooms/RoomEnding/RoomEnding.yy",},},
     {"id":{"name":"wall_spr","path":"sprites/wall_spr/wall_spr.yy",},},
     {"id":{"name":"obj_go_to_room_2","path":"objects/obj_go_to_room_2/obj_go_to_room_2.yy",},},
@@ -54,6 +53,7 @@
     {"id":{"name":"bgm_lights_out","path":"sounds/bgm_lights_out/bgm_lights_out.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"RUN","path":"objects/RUN/RUN.yy",},},
+    {"id":{"name":"scr_get_imput_gml","path":"scripts/scr_get_imput_gml/scr_get_imput_gml.yy",},},
     {"id":{"name":"obj_final","path":"objects/obj_final/obj_final.yy",},},
     {"id":{"name":"Obj_ending","path":"objects/Obj_ending/Obj_ending.yy",},},
     {"id":{"name":"Spr_hazard","path":"sprites/Spr_hazard/Spr_hazard.yy",},},
