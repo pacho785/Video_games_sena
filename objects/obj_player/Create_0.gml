@@ -10,4 +10,4 @@ else{
 	audio_stop_sound(bgm_lights_out);
 	audio_play_sound(bgm_sub_Danger,0,true);
 }
-state = scr_state_idle();
+state = scr_state_idle;

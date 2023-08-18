@@ -2,4 +2,11 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 para más información
 function scr_state_idle(){ 
 	sprite_index = spr_ba_bam_idle; 
+	if(right || left || up || down){
+		state = scr_state_walk;
+}
+	else if (attack){
+		image_index = 0;
+		state = scr_state_attack;
+}
 }
