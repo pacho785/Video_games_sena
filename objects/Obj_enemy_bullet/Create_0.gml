@@ -1,7 +1,4 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-with(other) { 
-	image_blend = c_lime;
-
-}
-depth = -y;
+spd = 3; 
+dir = 0; 

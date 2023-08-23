@@ -11,3 +11,5 @@ else{
 	audio_play_sound(bgm_sub_Danger,0,true);
 }
 state = scr_state_idle;
+h_dir = 1;
+attack_sensor = noone;

@@ -7,9 +7,13 @@ function scr_enemy_neo_idle(){
 		var dir = point_direction(x,y,obj_player.x,obj_player.y);
 		x = x+lengthdir_x(2,dir);
 		y = y+lengthdir_y(2,dir);
-		image_xscale = sign(lengthdir_x(2,dir));
+		dir_x = sign(lengthdir_x(2,dir));
+		image_xscale = dir_x;
 		sprite_index = Spr_enemy_neo_walk;
 	}else {
 		sprite_index = Spr_enemy_neo_idlle;
+		if(alarm[0]<=0){
+			alarm[0] = room_speed*3;
+		}
 	}
 }

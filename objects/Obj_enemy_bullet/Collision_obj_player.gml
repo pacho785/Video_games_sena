@@ -1,7 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-with(other) { 
-	image_blend = c_lime;
-
+with(other){
+	hp-=10;
 }
-depth = -y;
+instance_destroy();

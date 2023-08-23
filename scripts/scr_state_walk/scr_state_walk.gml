@@ -3,12 +3,12 @@
 function scr_state_walk(){
 	if(right) || keyboard_check(vk_right){///derecha
 		x = x+spd;
-		image_xscale = 1; 
+		h_dir = 1; 
 		sprite_index = spr_bat_man_walk;
 	}
 	else if (left) || keyboard_check(vk_left){///izquierda
 		x = x-spd;
-		image_xscale = -1; 
+		h_dir = -1; 
 		sprite_index = spr_bat_man_walk;
 	}
 	else if (up)|| keyboard_check(vk_up){///arriba
@@ -19,6 +19,9 @@ function scr_state_walk(){
 		y = y+spd;
 		sprite_index = spr_bat_man_walk;
 	}
+	
+	image_xscale = h_dir;
+	
 	if(!right &&  !left && !up && !down){
 		state = scr_state_idle;
 	}
