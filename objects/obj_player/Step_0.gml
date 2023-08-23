@@ -1,4 +1,4 @@
-/// @description Inserte aquí la descripción
+ /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 scr_get_input_gml();
 /*
@@ -15,6 +15,4 @@ else{
 
 script_execute(state);
 depth = -y; 
-
-show_debug_message("Vida actual: ");
-show_debug_message(hp);
+ 

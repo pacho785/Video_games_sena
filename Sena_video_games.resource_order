@@ -9,6 +9,7 @@
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Enemy states neo","order":2,"path":"folders/Scripts/Enemy states neo.yy",},
     {"name":"Player states","order":1,"path":"folders/Scripts/Player states.yy",},
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
@@ -17,7 +18,6 @@
     {"name":"enemy","order":7,"path":"folders/Sprites/enemy.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Enemy states neo","order":2,"path":"folders/Scripts/Enemy states neo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
