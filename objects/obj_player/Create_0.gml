@@ -1,7 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
  spd = 5; 
- hp = 100;
+ hp = Obj_game_controller.player_hp;
  
 if(room==Room1){
 	audio_play_sound(bgm_lights_out,0,true);

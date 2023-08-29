@@ -35,7 +35,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.6.0.89",
   },
   "resources": [
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -74,6 +74,7 @@
     {"id":{"name":"Spr_enemy_bullet","path":"sprites/Spr_enemy_bullet/Spr_enemy_bullet.yy",},},
     {"id":{"name":"Spr_hazard","path":"sprites/Spr_hazard/Spr_hazard.yy",},},
     {"id":{"name":"Spr_enemy_neo_idlle","path":"sprites/Spr_enemy_neo_idlle/Spr_enemy_neo_idlle.yy",},},
+    {"id":{"name":"Obj_game_controller","path":"objects/Obj_game_controller/Obj_game_controller.yy",},},
     {"id":{"name":"scr_enemy_neo_idle","path":"scripts/scr_enemy_neo_idle/scr_enemy_neo_idle.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

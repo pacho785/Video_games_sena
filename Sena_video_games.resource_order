@@ -48,5 +48,6 @@
     {"name":"Obj_ending","order":5,"path":"objects/Obj_ending/Obj_ending.yy",},
     {"name":"Spr_enemy_bullet","order":3,"path":"sprites/Spr_enemy_bullet/Spr_enemy_bullet.yy",},
     {"name":"Spr_hazard","order":4,"path":"sprites/Spr_hazard/Spr_hazard.yy",},
+    {"name":"Obj_game_controller","order":11,"path":"objects/Obj_game_controller/Obj_game_controller.yy",},
   ],
 }

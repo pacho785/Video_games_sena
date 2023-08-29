@@ -2,6 +2,6 @@
 // Puede escribir su código en este editor
 with(other) { 
 	image_blend = c_lime;
-
+	hp --;
 }
 depth = -y;
